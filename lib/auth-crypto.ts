@@ -1,0 +1,19 @@
+import {hash,compare} from 'bcryptjs';
+const enc=new TextEncoder();
+export const COOKIE_NAME='__Host-mpsc_session';
+const AUD='appgprj_6ace829c70f88191b57c3706c77ce0a7';
+const b64=(bytes:Uint8Array)=>btoa(String.fromCharCode(...bytes)).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'');
+const unb64=(s:string)=>Uint8Array.from(atob(s.replace(/-/g,'+').replace(/_/g,'/')),c=>c.charCodeAt(0));
+export const randomToken=()=>b64(crypto.getRandomValues(new Uint8Array(32)));
+export async function digest(s:string){return b64(new Uint8Array(await crypto.subtle.digest('SHA-256',enc.encode(s))));}
+async function hmacKey(secret:string){if(!secret||secret.length<43)throw new Error('Authentication secret is not configured');return crypto.subtle.importKey('raw',enc.encode(secret),{name:'HMAC',hash:'SHA-256'},false,['sign','verify']);}
+export async function keyedHash(value:string,secret:string){return b64(new Uint8Array(await crypto.subtle.sign('HMAC',await hmacKey(secret),enc.encode(value))));}
+export function passwordError(password:unknown){return typeof password!=='string'||password.length<12||password.length>128?'पासवर्ड १२ ते १२८ अक्षरांचा असावा. लांब आणि वेगळा पासवर्ड वापरा.':null;}
+// A secret HMAC prehash preserves arbitrary Unicode and avoids bcrypt's 72-byte input limit.
+export async function hashPassword(password:string,pepper:string){return hash(await keyedHash(password,pepper),12);}
+export async function checkPassword(password:string,record:string,pepper:string){return compare(await keyedHash(password,pepper),record);}
+export async function signJWT(sub:string,jti:string,expiresAt:number,secret:string){const now=Math.floor(Date.now()/1000),header=b64(enc.encode(JSON.stringify({alg:'HS256',typ:'JWT'}))),payload=b64(enc.encode(JSON.stringify({sub,jti,iat:now,exp:Math.floor(expiresAt/1000),iss:'mpsc-abhyas',aud:AUD})));const input=header+'.'+payload;return input+'.'+await keyedHash(input,secret);}
+export async function verifyJWT(token:string,secret:string):Promise<{sub:string;jti:string;exp:number}|null>{try{if(token.length>2048)return null;const parts=token.split('.');if(parts.length!==3)return null;const [h,p,s]=parts;const header=JSON.parse(new TextDecoder().decode(unb64(h)));if(header.alg!=='HS256'||header.typ!=='JWT')return null;const ok=await crypto.subtle.verify('HMAC',await hmacKey(secret),unb64(s),enc.encode(h+'.'+p));if(!ok)return null;const v=JSON.parse(new TextDecoder().decode(unb64(p))),now=Math.floor(Date.now()/1000);if(v.iss!=='mpsc-abhyas'||v.aud!==AUD||typeof v.sub!=='string'||!v.sub||v.sub.length>150||typeof v.jti!=='string'||v.jti.length!==43||!Number.isInteger(v.exp)||v.exp<=now||!Number.isInteger(v.iat)||v.iat>now+60||v.exp-v.iat>7*86400+1)return null;return v;}catch{return null;}}
+export function cookieToken(header:string|null){return (header??'').split(';').map(x=>x.trim()).find(x=>x.startsWith(COOKIE_NAME+'='))?.slice(COOKIE_NAME.length+1)??null;}
+export function sessionCookie(token:string,maxAge:number){return `${COOKIE_NAME}=${token}; Path=/; Secure; HttpOnly; SameSite=Lax; Max-Age=${maxAge}`;}
+export async function readBody(request:Request){if(!request.headers.get('content-type')?.startsWith('application/json'))throw new Error('JSON_REQUIRED');if(Number(request.headers.get('content-length')??0)>8192)throw new Error('BODY_TOO_LARGE');const reader=request.body?.getReader();if(!reader)throw new Error('JSON_REQUIRED');let total=0;const chunks:Uint8Array[]=[];while(true){const r=await reader.read();if(r.done)break;total+=r.value.length;if(total>8192){await reader.cancel();throw new Error('BODY_TOO_LARGE');}chunks.push(r.value);}const bytes=new Uint8Array(total);let pos=0;for(const chunk of chunks){bytes.set(chunk,pos);pos+=chunk.length;}const value=JSON.parse(new TextDecoder().decode(bytes));if(!value||typeof value!=='object'||Array.isArray(value))throw new Error('JSON_REQUIRED');return value;}

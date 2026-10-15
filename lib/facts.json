@@ -1,0 +1,2813 @@
+[
+  {
+    "topic": "इतिहास",
+    "subtopic": "राष्ट्रीय चळवळ व काँग्रेस",
+    "facts": [
+      {
+        "id": "f0-0",
+        "statement": "भारतीय राष्ट्रीय काँग्रेसची स्थापना {x} मध्ये झाली.",
+        "answer": "१८८५",
+        "wrong": [
+          "१८७५",
+          "१९०५",
+          "१९१५"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f0-1",
+        "statement": "काँग्रेसचे पहिले अधिवेशन {x} येथे झाले.",
+        "answer": "मुंबई",
+        "wrong": [
+          "पुणे",
+          "दिल्ली",
+          "मद्रास"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f0-2",
+        "statement": "१९०५ मध्ये बंगालची फाळणी {x} यांच्या कारकिर्दीत झाली.",
+        "answer": "लॉर्ड कर्झन",
+        "wrong": [
+          "लॉर्ड रिपन",
+          "लॉर्ड माउंटबॅटन",
+          "लॉर्ड कॉर्नवॉलिस"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f0-3",
+        "statement": "१९०६ मध्ये मुस्लिम लीगची स्थापना {x} येथे झाली.",
+        "answer": "ढाका",
+        "wrong": [
+          "मुंबई",
+          "लाहोर",
+          "पुणे"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f0-4",
+        "statement": "काँग्रेस व मुस्लिम लीग यांच्यात लखनौ करार {x} मध्ये झाला.",
+        "answer": "१९१६",
+        "wrong": [
+          "१९०६",
+          "१९२६",
+          "१९३६"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f0-5",
+        "statement": "‘स्वराज्य हा माझा जन्मसिद्ध हक्क आहे’ हा संदेश {x} यांच्याशी संबंधित आहे.",
+        "answer": "लोकमान्य टिळक",
+        "wrong": [
+          "ए. ओ. ह्यूम",
+          "लॉर्ड कर्झन",
+          "लॉर्ड डलहौसी"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f0-6",
+        "statement": "‘Poverty and Un-British Rule in India’ हा ग्रंथ {x} यांनी लिहिला.",
+        "answer": "दादाभाई नौरोजी",
+        "wrong": [
+          "महात्मा गांधी",
+          "भगतसिंग",
+          "लॉर्ड कर्झन"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f0-7",
+        "statement": "‘केसरी’ हे वृत्तपत्र मूळतः {x} भाषेत प्रसिद्ध झाले.",
+        "answer": "मराठी",
+        "wrong": [
+          "इंग्रजी",
+          "बंगाली",
+          "तमिळ"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+        "sourceTitle": "NCERT: The Making of the National Movement",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "इतिहास",
+    "subtopic": "गांधी युग व जनआंदोलने",
+    "facts": [
+      {
+        "id": "f1-0",
+        "statement": "महात्मा गांधी दक्षिण आफ्रिकेतून भारतात {x} मध्ये परतले.",
+        "answer": "१९१५",
+        "wrong": [
+          "१९०५",
+          "१९२५",
+          "१८९५"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-1",
+        "statement": "१९१७ च्या चंपारण सत्याग्रहाचा संबंध {x} उत्पादक शेतकऱ्यांशी होता.",
+        "answer": "नीळ",
+        "wrong": [
+          "कापूस",
+          "चहा",
+          "रबर"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-2",
+        "statement": "खेडा सत्याग्रह {x} राज्यातील शेतकऱ्यांशी संबंधित होता.",
+        "answer": "गुजरात",
+        "wrong": [
+          "बिहार",
+          "पंजाब",
+          "बंगाल"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-3",
+        "statement": "१९१८ मधील अहमदाबाद सत्याग्रहाचा संबंध {x} यांच्याशी होता.",
+        "answer": "कापड गिरणी कामगार",
+        "wrong": [
+          "चहा मळ्यातील कामगार",
+          "रेल्वे चालक",
+          "मीठ उत्पादक"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-4",
+        "statement": "जालियनवाला बाग हत्याकांड {x} येथे घडले.",
+        "answer": "अमृतसर",
+        "wrong": [
+          "लाहोर",
+          "दिल्ली",
+          "मुंबई"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-5",
+        "statement": "जालियनवाला बाग हत्याकांड {x} वर्षी झाले.",
+        "answer": "१९१९",
+        "wrong": [
+          "१९०९",
+          "१९२९",
+          "१९३९"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-6",
+        "statement": "चौरीचौरा घटनेनंतर गांधींनी {x} आंदोलन मागे घेतले.",
+        "answer": "असहकार",
+        "wrong": [
+          "भारत छोडो",
+          "स्वदेशी",
+          "होमरूल"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-7",
+        "statement": "दांडी यात्रेने {x} कायद्याचा भंग करण्याचे लक्ष्य ठेवले.",
+        "answer": "मीठ",
+        "wrong": [
+          "शस्त्र",
+          "जमीन वारसा",
+          "शिक्षण"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-8",
+        "statement": "पूर्ण स्वराज्याचा ठराव १९२९ च्या {x} अधिवेशनात मंजूर झाला.",
+        "answer": "लाहोर",
+        "wrong": [
+          "मुंबई",
+          "पुणे",
+          "नागपूर"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f1-9",
+        "statement": "दांडी यात्रा {x} मध्ये झाली.",
+        "answer": "१९३०",
+        "wrong": [
+          "१९२०",
+          "१९४०",
+          "१९१०"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+        "sourceTitle": "NCERT: Nationalism in India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "इतिहास",
+    "subtopic": "१८५७ उठाव व ब्रिटिश सत्ता",
+    "facts": [
+      {
+        "id": "f2-0",
+        "statement": "१८५७ च्या उठावाची प्रमुख सुरुवात {x} येथे झाली.",
+        "answer": "मीरत",
+        "wrong": [
+          "मुंबई",
+          "चेन्नई",
+          "पुणे"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f2-1",
+        "statement": "मंगल पांडे यांची घटना {x} छावणीशी संबंधित आहे.",
+        "answer": "बराकपूर",
+        "wrong": [
+          "पुणे",
+          "सातारा",
+          "मद्रास"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f2-2",
+        "statement": "१८५७ च्या उठावात दिल्लीतील प्रतीकात्मक नेतृत्व {x} यांच्याकडे होते.",
+        "answer": "बहादूरशहा जफर",
+        "wrong": [
+          "शिवाजी महाराज",
+          "वॉरेन हेस्टिंग्ज",
+          "लॉर्ड कर्झन"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f2-3",
+        "statement": "राणी लक्ष्मीबाई {x} संस्थानाशी संबंधित होत्या.",
+        "answer": "झाशी",
+        "wrong": [
+          "अवध",
+          "मैसूर",
+          "हैदराबाद"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f2-4",
+        "statement": "नानासाहेब पेशवे यांच्या नेतृत्वाचा प्रमुख केंद्रबिंदू {x} होता.",
+        "answer": "कानपूर",
+        "wrong": [
+          "मद्रास",
+          "मुंबई",
+          "कलकत्ता"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f2-5",
+        "statement": "बेगम हजरत महल यांनी {x} येथे उठावाचे नेतृत्व केले.",
+        "answer": "लखनौ",
+        "wrong": [
+          "पुणे",
+          "सूरत",
+          "पाटणा"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f2-6",
+        "statement": "कुंवर सिंह यांच्या उठावाचा संबंध {x} प्रदेशाशी होता.",
+        "answer": "बिहार",
+        "wrong": [
+          "केरळ",
+          "तमिळनाडू",
+          "गोवा"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f2-7",
+        "statement": "१८५८ नंतर भारतातील कंपनीचा कारभार {x} यांच्या नियंत्रणाखाली गेला.",
+        "answer": "ब्रिटिश क्राउन",
+        "wrong": [
+          "फ्रेंच क्राउन",
+          "पोर्तुगीज सरकार",
+          "डच सरकार"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+        "sourceTitle": "NCERT: When People Rebel",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "इतिहास",
+    "subtopic": "समाजसुधारणा व जातिसमतेची चळवळ",
+    "facts": [
+      {
+        "id": "f3-0",
+        "statement": "सत्यशोधक समाजाचे संस्थापक {x} होते.",
+        "answer": "ज्योतिराव फुले",
+        "wrong": [
+          "लॉर्ड कर्झन",
+          "ए. ओ. ह्यूम",
+          "रॉबर्ट क्लाइव्ह"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f3-1",
+        "statement": "‘गुलामगिरी’ हा ग्रंथ {x} यांनी लिहिला.",
+        "answer": "ज्योतिराव फुले",
+        "wrong": [
+          "दादाभाई नौरोजी",
+          "भगतसिंग",
+          "लॉर्ड रिपन"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f3-2",
+        "statement": "‘गुलामगिरी’ हा ग्रंथ {x} मध्ये प्रकाशित झाला.",
+        "answer": "१८७३",
+        "wrong": [
+          "१८५३",
+          "१८९३",
+          "१९१३"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f3-3",
+        "statement": "विधवा पुनर्विवाहाच्या कायद्यासाठी {x} यांनी विशेष प्रयत्न केले.",
+        "answer": "ईश्वरचंद्र विद्यासागर",
+        "wrong": [
+          "लॉर्ड कर्झन",
+          "वॉरेन हेस्टिंग्ज",
+          "लॉर्ड माउंटबॅटन"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f3-4",
+        "statement": "विधवा पुनर्विवाह कायदा {x} मध्ये संमत झाला.",
+        "answer": "१८५६",
+        "wrong": [
+          "१८३६",
+          "१८७६",
+          "१८९६"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f3-5",
+        "statement": "आर्य समाजाचे संस्थापक {x} होते.",
+        "answer": "स्वामी दयानंद सरस्वती",
+        "wrong": [
+          "स्वामी विवेकानंद",
+          "ज्योतिराव फुले",
+          "ईश्वरचंद्र विद्यासागर"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f3-6",
+        "statement": "सतीबंदीचा कायदा {x} मध्ये करण्यात आला.",
+        "answer": "१८२९",
+        "wrong": [
+          "१८४९",
+          "१८६९",
+          "१८८९"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f3-7",
+        "statement": "डॉ. आंबेडकरांच्या चळवळीचे एक प्रमुख लक्ष्य {x} होते.",
+        "answer": "जातिभेद व अस्पृश्यता नष्ट करणे",
+        "wrong": [
+          "जातिभेद वाढवणे",
+          "अस्पृश्यता कायम ठेवणे",
+          "शिक्षणाला विरोध करणे"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+        "sourceTitle": "NCERT: Women, Caste and Reform",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "राज्यघटना",
+    "subtopic": "मूलभूत अधिकार, कर्तव्ये व निदेशक तत्त्वे",
+    "facts": [
+      {
+        "id": "f4-0",
+        "statement": "मूलभूत अधिकार संविधानाच्या {x} मध्ये आहेत.",
+        "answer": "भाग III",
+        "wrong": [
+          "भाग I",
+          "भाग II",
+          "भाग IV"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f4-1",
+        "statement": "राज्याच्या धोरणाची निदेशक तत्त्वे संविधानाच्या {x} मध्ये आहेत.",
+        "answer": "भाग IV",
+        "wrong": [
+          "भाग I",
+          "भाग II",
+          "भाग III"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f4-2",
+        "statement": "कायद्यापुढील समानतेशी संबंधित कलम {x} आहे.",
+        "answer": "१४",
+        "wrong": [
+          "२०",
+          "२८०",
+          "३२४"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f4-3",
+        "statement": "अस्पृश्यता नष्ट करण्याची तरतूद कलम {x} मध्ये आहे.",
+        "answer": "१७",
+        "wrong": [
+          "१९",
+          "३२",
+          "७२"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f4-4",
+        "statement": "जीवन व वैयक्तिक स्वातंत्र्याचे संरक्षण कलम {x} देते.",
+        "answer": "२१",
+        "wrong": [
+          "१८",
+          "२८०",
+          "३२४"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f4-5",
+        "statement": "६ ते १४ वर्षांच्या मुलांच्या शिक्षणाच्या अधिकाराची तरतूद कलम {x} मध्ये आहे.",
+        "answer": "२१A",
+        "wrong": [
+          "१९",
+          "३२",
+          "५१A"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f4-6",
+        "statement": "संवैधानिक उपचारांचा अधिकार कलम {x} मध्ये आहे.",
+        "answer": "३२",
+        "wrong": [
+          "३२४",
+          "२८०",
+          "३६८"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f4-7",
+        "statement": "मूलभूत कर्तव्ये कलम {x} मध्ये दिली आहेत.",
+        "answer": "५१A",
+        "wrong": [
+          "३२",
+          "३२४",
+          "२८०"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "राज्यघटना",
+    "subtopic": "संसद, कार्यपालिका व घटनात्मक संस्था",
+    "facts": [
+      {
+        "id": "f5-0",
+        "statement": "राज्यपालांची नियुक्ती {x} करतात.",
+        "answer": "राष्ट्रपती",
+        "wrong": [
+          "लोकसभा अध्यक्ष",
+          "राज्यसभेचे सदस्य एकत्र",
+          "निवडणूक आयोग"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f5-1",
+        "statement": "धन विधेयक प्रथम {x} मध्ये मांडले जाते.",
+        "answer": "लोकसभा",
+        "wrong": [
+          "राज्यसभा",
+          "सर्वोच्च न्यायालय",
+          "वित्त आयोग"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f5-2",
+        "statement": "लोकसभेचा सामान्य कार्यकाळ {x} असतो.",
+        "answer": "५ वर्षे",
+        "wrong": [
+          "३ वर्षे",
+          "४ वर्षे",
+          "६ वर्षे"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f5-3",
+        "statement": "राज्यसभा सदस्याचा सामान्य कार्यकाळ {x} असतो.",
+        "answer": "६ वर्षे",
+        "wrong": [
+          "३ वर्षे",
+          "४ वर्षे",
+          "५ वर्षे"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f5-4",
+        "statement": "संसदेच्या संयुक्त बैठकीचे अध्यक्षस्थान सामान्यतः {x} भूषवतात.",
+        "answer": "लोकसभा अध्यक्ष",
+        "wrong": [
+          "राष्ट्रपती",
+          "पंतप्रधान",
+          "सरन्यायाधीश"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f5-5",
+        "statement": "निवडणूक आयोगाशी संबंधित कलम {x} आहे.",
+        "answer": "३२४",
+        "wrong": [
+          "२८०",
+          "३२",
+          "१४"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f5-6",
+        "statement": "वित्त आयोगाशी संबंधित कलम {x} आहे.",
+        "answer": "२८०",
+        "wrong": [
+          "३२४",
+          "१९",
+          "२१"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f5-7",
+        "statement": "भारताचे उपराष्ट्रपती {x} सभागृहाचे पदसिद्ध सभापती असतात.",
+        "answer": "राज्यसभा",
+        "wrong": [
+          "लोकसभा",
+          "विधानसभा",
+          "ग्रामसभा"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "राज्यघटना",
+    "subtopic": "पंचायतराज, नगरपालिका व घटनादुरुस्ती",
+    "facts": [
+      {
+        "id": "f6-0",
+        "statement": "पंचायतींच्या घटनात्मक तरतुदी {x} घटनादुरुस्तीने जोडल्या.",
+        "answer": "७३ वी",
+        "wrong": [
+          "४२ वी",
+          "६१ वी",
+          "७४ वी"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f6-1",
+        "statement": "नगरपालिकांच्या घटनात्मक तरतुदी {x} घटनादुरुस्तीने जोडल्या.",
+        "answer": "७४ वी",
+        "wrong": [
+          "४२ वी",
+          "६१ वी",
+          "७३ वी"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f6-2",
+        "statement": "मतदानाचे किमान वय २१ वरून १८ {x} घटनादुरुस्तीने झाले.",
+        "answer": "६१ वी",
+        "wrong": [
+          "४२ वी",
+          "७३ वी",
+          "७४ वी"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f6-3",
+        "statement": "मूलभूत कर्तव्ये {x} घटनादुरुस्तीने समाविष्ट झाली.",
+        "answer": "४२ वी",
+        "wrong": [
+          "४४ वी",
+          "६१ वी",
+          "७३ वी"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f6-4",
+        "statement": "पंचायतींशी संबंधित विषयांची सूची {x} अनुसूचीत आहे.",
+        "answer": "अकरावी",
+        "wrong": [
+          "दहावी",
+          "आठवी",
+          "बारावी"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f6-5",
+        "statement": "नगरपालिकांशी संबंधित विषयांची सूची {x} अनुसूचीत आहे.",
+        "answer": "बारावी",
+        "wrong": [
+          "अकरावी",
+          "दहावी",
+          "आठवी"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f6-6",
+        "statement": "पंचायतींचा सामान्य कार्यकाळ {x} असतो.",
+        "answer": "५ वर्षे",
+        "wrong": [
+          "३ वर्षे",
+          "४ वर्षे",
+          "६ वर्षे"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f6-7",
+        "statement": "ग्रामसभेत संबंधित गावातील {x} समाविष्ट असतात.",
+        "answer": "मतदारयादीतील व्यक्ती",
+        "wrong": [
+          "फक्त सरपंच",
+          "फक्त ग्रामपंचायत सदस्य",
+          "फक्त सरकारी कर्मचारी"
+        ],
+        "sourceUrl": "https://www.legislative.gov.in/static/uploads/2025/07/c9fe9c9b6840524844316f74bb1c556c.pdf",
+        "sourceTitle": "भारताचे संविधान, विधायी विभाग",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "भूगोल व पर्यावरण",
+    "subtopic": "भारताचा भौतिक भूगोल",
+    "facts": [
+      {
+        "id": "f7-0",
+        "statement": "हिमालय हे भूवैज्ञानिकदृष्ट्या {x} पर्वत आहेत.",
+        "answer": "तरुण वली",
+        "wrong": [
+          "जुने अवशिष्ट",
+          "ज्वालामुखीय",
+          "प्रवाळ"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f7-1",
+        "statement": "उत्तरेकडील मैदानांची निर्मिती प्रामुख्याने {x} मुळे झाली.",
+        "answer": "नद्यांच्या गाळसंचयन",
+        "wrong": [
+          "ज्वालामुखींच्या उद्रेक",
+          "प्रवाळांच्या वाढी",
+          "हिमखंडांच्या वितळण्याच्या थेट प्रक्रिये"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f7-2",
+        "statement": "शिवालिक हा हिमालयाचा {x} भाग आहे.",
+        "answer": "बाह्य",
+        "wrong": [
+          "सर्वाधिक उत्तरेकडील",
+          "मध्य महासागरी",
+          "दक्षिण ध्रुवीय"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f7-3",
+        "statement": "बांगर म्हणजे गाळाचे {x} निक्षेप.",
+        "answer": "जुने",
+        "wrong": [
+          "फक्त नवीन",
+          "फक्त समुद्री",
+          "फक्त ज्वालामुखीय"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f7-4",
+        "statement": "खादर म्हणजे गाळाचे {x} निक्षेप.",
+        "answer": "नवे",
+        "wrong": [
+          "फक्त जुने",
+          "फक्त समुद्री",
+          "फक्त लाव्हाचे"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f7-5",
+        "statement": "पश्चिम घाट व पूर्व घाट {x} टेकड्यांजवळ भेटतात.",
+        "answer": "निलगिरी",
+        "wrong": [
+          "अरवली",
+          "शिवालिक",
+          "काराकोरम"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f7-6",
+        "statement": "लक्षद्वीप बेटे प्रामुख्याने {x} उत्पत्तीची आहेत.",
+        "answer": "प्रवाळ",
+        "wrong": [
+          "हिमनदी",
+          "वाळवंटी",
+          "खंडीय हिमपत्र"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f7-7",
+        "statement": "भारतीय थर वाळवंटात वाहणारी प्रमुख नदी {x} आहे.",
+        "answer": "लूणी",
+        "wrong": [
+          "गंगा",
+          "गोदावरी",
+          "ब्रह्मपुत्र"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-09/social-science/contemporary-india-01/chapter-02-physical-features-of-india/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Physical Features of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "भूगोल व पर्यावरण",
+    "subtopic": "हवामान व मान्सून",
+    "facts": [
+      {
+        "id": "f8-0",
+        "statement": "भारतातील हवामानाचा प्रमुख प्रकार {x} आहे.",
+        "answer": "मोसमी",
+        "wrong": [
+          "ध्रुवीय",
+          "टुंड्रा",
+          "भूमध्य पूर्णपणे"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+        "sourceTitle": "NCERT: Climate",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f8-1",
+        "statement": "नैर्ऋत्य मान्सूनच्या अरबी समुद्र शाखेला अडवणारा प्रमुख पर्वतभाग {x} आहे.",
+        "answer": "पश्चिम घाट",
+        "wrong": [
+          "पूर्व घाट फक्त",
+          "अरवली फक्त",
+          "निलगिरी फक्त"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+        "sourceTitle": "NCERT: Climate",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f8-2",
+        "statement": "पर्वताच्या वाऱ्याच्या विरुद्ध बाजूचा कमी पावसाचा प्रदेश {x} म्हणून ओळखला जातो.",
+        "answer": "पर्जन्यछाया",
+        "wrong": [
+          "हिमरेषा",
+          "दाबकेंद्र",
+          "खाडी"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+        "sourceTitle": "NCERT: Climate",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f8-3",
+        "statement": "तामिळनाडूच्या किनाऱ्यावर हिवाळ्यातील पावसासाठी {x} मान्सून महत्त्वाचा असतो.",
+        "answer": "ईशान्य",
+        "wrong": [
+          "नैर्ऋत्य फक्त",
+          "पश्चिम ध्रुवीय",
+          "दक्षिण ध्रुवीय"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+        "sourceTitle": "NCERT: Climate",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f8-4",
+        "statement": "उत्तर भारतातील हिवाळ्यातील पावसाचा संबंध अनेकदा {x} यांच्याशी असतो.",
+        "answer": "पश्चिमी विक्षोभ",
+        "wrong": [
+          "विषुववृत्तीय हिमवादळ",
+          "दक्षिण ध्रुवीय वारे",
+          "प्रवाळ वादळ"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+        "sourceTitle": "NCERT: Climate",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f8-5",
+        "statement": "पर्वताच्या वाऱ्याकडील बाजूवर हवेच्या उर्ध्वगमनामुळे पडणारा पाऊस {x} प्रकारचा आहे.",
+        "answer": "प्रतिरोध",
+        "wrong": [
+          "आम्लच फक्त",
+          "हिमनदीजन्य",
+          "भरतीजन्य"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+        "sourceTitle": "NCERT: Climate",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f8-6",
+        "statement": "समुद्रापासून दूर असलेल्या भागात सामान्यतः तापमानाची वार्षिक कक्षा {x} असते.",
+        "answer": "अधिक",
+        "wrong": [
+          "नेहमी शून्य",
+          "नेहमी ऋण",
+          "समुद्राच्या खोलीएवढी"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/kegy104.pdf",
+        "sourceTitle": "NCERT: Climate",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "विज्ञान",
+    "subtopic": "जीवशास्त्र व जीवनप्रक्रिया",
+    "facts": [
+      {
+        "id": "f9-0",
+        "statement": "वनस्पती प्रकाशसंश्लेषणासाठी {x} वायू वापरतात.",
+        "answer": "कार्बन डायऑक्साइड",
+        "wrong": [
+          "हीलियम",
+          "निऑन",
+          "आर्गॉन"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f9-1",
+        "statement": "पानांतील हिरवे रंगद्रव्य {x} आहे.",
+        "answer": "क्लोरोफिल",
+        "wrong": [
+          "हिमोग्लोबिन",
+          "मेलॅनिन",
+          "इन्सुलिन"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f9-2",
+        "statement": "मानवी हृदयात {x} कप्पे असतात.",
+        "answer": "चार",
+        "wrong": [
+          "दोन",
+          "तीन",
+          "पाच"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f9-3",
+        "statement": "रक्तातील ऑक्सिजन वाहतुकीत प्रमुख भूमिका {x} बजावते.",
+        "answer": "हिमोग्लोबिन",
+        "wrong": [
+          "क्लोरोफिल",
+          "स्टार्च",
+          "सेल्युलोज"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f9-4",
+        "statement": "मानवी वृक्काचे कार्यात्मक एकक {x} आहे.",
+        "answer": "नेफ्रॉन",
+        "wrong": [
+          "न्यूरॉन",
+          "अल्व्हिओलस",
+          "व्हिलस"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f9-5",
+        "statement": "वनस्पतींमध्ये जलवाहतुकीचे प्रमुख ऊतक {x} आहे.",
+        "answer": "झायलम",
+        "wrong": [
+          "फ्लोएम",
+          "मानवी रक्त",
+          "अल्व्हिओलस"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f9-6",
+        "statement": "वनस्पतींमध्ये अन्नद्रव्यांची वाहतूक प्रामुख्याने {x} करते.",
+        "answer": "फ्लोएम",
+        "wrong": [
+          "झायलम",
+          "कठीण बाह्य कवच फक्त",
+          "पानांवरील मेण फक्त"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f9-7",
+        "statement": "फुफ्फुसांत वायूंची देवाणघेवाण प्रामुख्याने {x} मध्ये होते.",
+        "answer": "अल्व्हिओली",
+        "wrong": [
+          "नेफ्रॉन",
+          "व्हिलाय",
+          "मेंदूचे निलय"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+        "sourceTitle": "NCERT: Life Processes",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "विज्ञान",
+    "subtopic": "रसायनशास्त्र: आम्ल, क्षार व क्षारके",
+    "facts": [
+      {
+        "id": "f10-0",
+        "statement": "आम्ल निळा लिटमस {x} करते.",
+        "answer": "लाल",
+        "wrong": [
+          "हिरवा",
+          "पिवळा",
+          "काळा"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f10-1",
+        "statement": "क्षारक लाल लिटमस {x} करते.",
+        "answer": "निळा",
+        "wrong": [
+          "हिरवा",
+          "पिवळा",
+          "काळा"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f10-2",
+        "statement": "२५°C वर शुद्ध पाण्याचा pH साधारण {x} असतो.",
+        "answer": "७",
+        "wrong": [
+          "२",
+          "५",
+          "९"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f10-3",
+        "statement": "आम्लीय द्रावणाचा pH सामान्यतः {x} असतो.",
+        "answer": "७ पेक्षा कमी",
+        "wrong": [
+          "७ पेक्षा अधिक",
+          "नेहमी १४",
+          "नेहमी ७"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f10-4",
+        "statement": "क्षारकीय द्रावणाचा pH सामान्यतः {x} असतो.",
+        "answer": "७ पेक्षा अधिक",
+        "wrong": [
+          "७ पेक्षा कमी",
+          "नेहमी ०",
+          "नेहमी ७"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f10-5",
+        "statement": "आम्ल-क्षारक उदासीनीकरणात सामान्यतः {x} तयार होते.",
+        "answer": "मीठ व पाणी",
+        "wrong": [
+          "फक्त हायड्रोजन",
+          "फक्त ऑक्सिजन",
+          "फक्त कार्बन"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f10-6",
+        "statement": "सोडियम क्लोराइडचे सूत्र {x} आहे.",
+        "answer": "NaCl",
+        "wrong": [
+          "KOH",
+          "HCl",
+          "CaO"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f10-7",
+        "statement": "खाण्याच्या सोड्याचे सूत्र {x} आहे.",
+        "answer": "NaHCO₃",
+        "wrong": [
+          "NaCl",
+          "CaCO₃",
+          "CaO"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jesc102.pdf",
+        "sourceTitle": "NCERT: Acids, Bases and Salts",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "विज्ञान",
+    "subtopic": "भौतिकशास्त्र: मापन, बल व ऊर्जा",
+    "facts": [
+      {
+        "id": "f11-0",
+        "statement": "लांबीचे SI मूलभूत एकक {x} आहे.",
+        "answer": "मीटर",
+        "wrong": [
+          "किलोग्रॅम",
+          "सेकंद",
+          "केल्विन"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/measurement-units",
+        "sourceTitle": "BIPM: SI measurement units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f11-1",
+        "statement": "वस्तुमानाचे SI मूलभूत एकक {x} आहे.",
+        "answer": "किलोग्रॅम",
+        "wrong": [
+          "मीटर",
+          "सेकंद",
+          "अँपिअर"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/measurement-units",
+        "sourceTitle": "BIPM: SI measurement units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f11-2",
+        "statement": "वेळेचे SI मूलभूत एकक {x} आहे.",
+        "answer": "सेकंद",
+        "wrong": [
+          "मीटर",
+          "किलोग्रॅम",
+          "केल्विन"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/measurement-units",
+        "sourceTitle": "BIPM: SI measurement units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f11-3",
+        "statement": "विद्युत प्रवाहाचे SI मूलभूत एकक {x} आहे.",
+        "answer": "अँपिअर",
+        "wrong": [
+          "व्होल्ट",
+          "ओहम",
+          "वॅट"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/measurement-units",
+        "sourceTitle": "BIPM: SI measurement units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f11-4",
+        "statement": "तापमानाचे SI मूलभूत एकक {x} आहे.",
+        "answer": "केल्विन",
+        "wrong": [
+          "अंश सेल्सियस",
+          "अंश फॅरेनहाइट",
+          "जूल"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/measurement-units",
+        "sourceTitle": "BIPM: SI measurement units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f11-5",
+        "statement": "बलाचे SI व्युत्पन्न एकक {x} आहे.",
+        "answer": "न्यूटन",
+        "wrong": [
+          "जूल",
+          "वॅट",
+          "पास्कल"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/committees/ci/cipm/41-1946/resolution-2",
+        "sourceTitle": "BIPM: Derived units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f11-6",
+        "statement": "ऊर्जेचे SI व्युत्पन्न एकक {x} आहे.",
+        "answer": "जूल",
+        "wrong": [
+          "न्यूटन",
+          "वॅट",
+          "ओहम"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/committees/ci/cipm/41-1946/resolution-2",
+        "sourceTitle": "BIPM: Derived units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f11-7",
+        "statement": "शक्तीचे SI व्युत्पन्न एकक {x} आहे.",
+        "answer": "वॅट",
+        "wrong": [
+          "जूल",
+          "न्यूटन",
+          "कूलंब"
+        ],
+        "sourceUrl": "https://www.bipm.org/en/committees/ci/cipm/41-1946/resolution-2",
+        "sourceTitle": "BIPM: Derived units",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "अर्थव्यवस्था",
+    "subtopic": "बँकिंग, चलन व मौद्रिक धोरण",
+    "facts": [
+      {
+        "id": "f12-0",
+        "statement": "भारताची मध्यवर्ती बँक {x} आहे.",
+        "answer": "रिझर्व्ह बँक ऑफ इंडिया",
+        "wrong": [
+          "स्टेट बँक ऑफ इंडिया",
+          "नाबार्ड",
+          "सेबी"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f12-1",
+        "statement": "भारतात ₹१ ची नोट {x} जारी करते.",
+        "answer": "भारत सरकार",
+        "wrong": [
+          "RBI",
+          "SBI",
+          "SEBI"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f12-2",
+        "statement": "मौद्रिक धोरणाचे प्रमुख उद्दिष्ट वाढीचा विचार करून {x} राखणे आहे.",
+        "answer": "किंमत स्थैर्य",
+        "wrong": [
+          "फक्त शेअरभाव वाढवणे",
+          "फक्त सोन्याचे भाव वाढवणे",
+          "सर्व कर रद्द करणे"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f12-3",
+        "statement": "बँकांनी RBI कडे ठेवावयाच्या रोख राखीव प्रमाणाला {x} म्हणतात.",
+        "answer": "CRR",
+        "wrong": [
+          "GDP",
+          "HDI",
+          "GST"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f12-4",
+        "statement": "बँकांना पात्र तारणावर RBI कडून अल्पकालीन निधी मिळण्याच्या धोरण दराला {x} म्हणतात.",
+        "answer": "रेपो दर",
+        "wrong": [
+          "आयकर दर",
+          "GST दर",
+          "निर्यात शुल्क"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f12-5",
+        "statement": "भारताच्या विदेशी चलनसाठ्याचे व्यवस्थापन प्रामुख्याने {x} करते.",
+        "answer": "RBI",
+        "wrong": [
+          "निवडणूक आयोग",
+          "लोकसभा सचिवालय",
+          "ग्रामसभा"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f12-6",
+        "statement": "RBI चे एक कार्य सरकारचे {x} म्हणून काम करणे आहे.",
+        "answer": "बँकर",
+        "wrong": [
+          "निवडणूक निरीक्षक",
+          "न्यायालय",
+          "पोलीस ठाणे"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f12-7",
+        "statement": "RBI च्या खुल्या बाजार व्यवहारांचा संबंध प्रामुख्याने {x} यांच्याशी असतो.",
+        "answer": "सरकारी रोख्यांची खरेदी-विक्री",
+        "wrong": [
+          "मतदारांची नोंदणी",
+          "भूमापन",
+          "शालेय प्रवेश"
+        ],
+        "sourceUrl": "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086",
+        "sourceTitle": "RBI: Functions and Working",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "अर्थव्यवस्था",
+    "subtopic": "राष्ट्रीय उत्पन्न, क्षेत्रे व विकास",
+    "facts": [
+      {
+        "id": "f13-0",
+        "statement": "कृषी हा अर्थव्यवस्थेतील {x} क्षेत्राचा भाग आहे.",
+        "answer": "प्राथमिक",
+        "wrong": [
+          "द्वितीयक",
+          "तृतीयक",
+          "चतुर्थकच फक्त"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f13-1",
+        "statement": "मासेमारी हा {x} क्षेत्रातील व्यवसाय आहे.",
+        "answer": "प्राथमिक",
+        "wrong": [
+          "द्वितीयक",
+          "तृतीयक",
+          "बँकिंग"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f13-2",
+        "statement": "वस्तूंचे औद्योगिक उत्पादन हा {x} क्षेत्राचा भाग आहे.",
+        "answer": "द्वितीयक",
+        "wrong": [
+          "प्राथमिक",
+          "तृतीयक",
+          "कृषीच फक्त"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f13-3",
+        "statement": "बँकिंग हा {x} क्षेत्राचा भाग आहे.",
+        "answer": "तृतीयक",
+        "wrong": [
+          "प्राथमिक",
+          "द्वितीयक",
+          "कृषीच फक्त"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f13-4",
+        "statement": "GDP मध्ये एका देशाच्या सीमांत उत्पादित {x} यांचे मूल्य मोजले जाते.",
+        "answer": "अंतिम वस्तू व सेवा",
+        "wrong": [
+          "फक्त आयात",
+          "फक्त शेअर व्यवहार",
+          "फक्त सोन्याचा साठा"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f13-5",
+        "statement": "आवश्यकतेपेक्षा अधिक व्यक्ती शेतीत काम करून अतिरिक्त उत्पादनात भर घालत नसतील तर ती {x} असते.",
+        "answer": "छुपी बेरोजगारी",
+        "wrong": [
+          "पूर्ण रोजगार",
+          "कायम उत्पादनवाढ",
+          "निर्यात वाढ"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f13-6",
+        "statement": "दुहेरी मोजणी टाळण्यासाठी उत्पादनमूल्याच्या गणनेत {x} विचारात घेतात.",
+        "answer": "अंतिम वस्तूंचे मूल्य किंवा मूल्यवर्धन",
+        "wrong": [
+          "प्रत्येक टप्प्याची संपूर्ण विक्री बेरीज",
+          "फक्त आयातमूल्य",
+          "फक्त कर्ज"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f13-7",
+        "statement": "उत्पादन क्षेत्रात काम करणाऱ्या व्यक्तीचे उदाहरण {x} आहे.",
+        "answer": "कापड कारखान्यातील कामगार",
+        "wrong": [
+          "शेतकरी",
+          "मच्छीमार",
+          "बँक कर्मचारी"
+        ],
+        "sourceUrl": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+        "sourceTitle": "NCERT: Sectors of the Indian Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "चालू घडामोडी",
+    "subtopic": "२०२४",
+    "facts": [
+      {
+        "id": "f14-0",
+        "statement": "XPoSat चे प्रक्षेपण {x} रोजी झाले.",
+        "answer": "१ जानेवारी २०२४",
+        "wrong": [
+          "१ जानेवारी २०२५",
+          "६ जानेवारी २०२४",
+          "१६ जानेवारी २०२५"
+        ],
+        "sourceUrl": "https://www.isro.gov.in/LaunchMissions.html",
+        "sourceTitle": "ISRO: Launch missions",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f14-1",
+        "statement": "XPoSat च्या प्रक्षेपणासाठी {x} वापरण्यात आले.",
+        "answer": "PSLV-C58",
+        "wrong": [
+          "GSLV-F16",
+          "PSLV-C60",
+          "PSLV-C57"
+        ],
+        "sourceUrl": "https://www.isro.gov.in/LaunchMissions.html",
+        "sourceTitle": "ISRO: Launch missions",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f15-0",
+        "statement": "आदित्य-L1 ची लक्ष्य हेलो कक्षेत स्थापना {x} रोजी झाली.",
+        "answer": "६ जानेवारी २०२४",
+        "wrong": [
+          "१ जानेवारी २०२४",
+          "१६ जानेवारी २०२५",
+          "३० जुलै २०२५"
+        ],
+        "sourceUrl": "https://www.isro.gov.in/halo-orbit-insertion-adtya-l1.html",
+        "sourceTitle": "ISRO: Aditya-L1 halo-orbit insertion",
+        "sourceDate": "2024-01-06",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f15-1",
+        "statement": "आदित्य-L1 चे संशोधन लक्ष्य {x} आहे.",
+        "answer": "सूर्य",
+        "wrong": [
+          "मंगळ",
+          "शुक्र",
+          "शनी"
+        ],
+        "sourceUrl": "https://www.isro.gov.in/halo-orbit-insertion-adtya-l1.html",
+        "sourceTitle": "ISRO: Aditya-L1 halo-orbit insertion",
+        "sourceDate": "2024-01-06",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f16-0",
+        "statement": "मराठीला अभिजात भाषेचा दर्जा देण्यास केंद्रीय मंत्रिमंडळाने {x} रोजी मंजुरी दिली.",
+        "answer": "३ ऑक्टोबर २०२४",
+        "wrong": [
+          "३ ऑक्टोबर २०२५",
+          "१ जानेवारी २०२४",
+          "२६ जानेवारी २०२६"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660",
+        "sourceTitle": "PIB: Classical language status",
+        "sourceDate": "2024-10-03",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f16-1",
+        "statement": "३ ऑक्टोबर २०२४ च्या निर्णयात नव्याने अभिजात दर्जा मिळालेल्या भाषांची संख्या {x} होती.",
+        "answer": "पाच",
+        "wrong": [
+          "दोन",
+          "तीन",
+          "सात"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660",
+        "sourceTitle": "PIB: Classical language status",
+        "sourceDate": "2024-10-03",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f16-2",
+        "statement": "३ ऑक्टोबर २०२४ च्या नव्या अभिजात भाषांच्या यादीत {x} होती.",
+        "answer": "मराठी",
+        "wrong": [
+          "हिंदी",
+          "इंग्रजी",
+          "फ्रेंच"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660",
+        "sourceTitle": "PIB: Classical language status",
+        "sourceDate": "2024-10-03",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f16-3",
+        "statement": "२०२४ मध्ये मराठीसोबत अभिजात दर्जा मंजूर झालेल्या भाषांपैकी {x} एक आहे.",
+        "answer": "पाली",
+        "wrong": [
+          "जर्मन",
+          "इंग्रजी",
+          "हिंदी"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2061660",
+        "sourceTitle": "PIB: Classical language status",
+        "sourceDate": "2024-10-03",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f17-0",
+        "statement": "२०२४ मध्ये जागतिक वारसा यादीत समाविष्ट मोइदाम्स {x} राज्यात आहेत.",
+        "answer": "आसाम",
+        "wrong": [
+          "महाराष्ट्र",
+          "केरळ",
+          "पंजाब"
+        ],
+        "sourceUrl": "https://whc.unesco.org/en/list/1711",
+        "sourceTitle": "UNESCO: Moidams",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f17-1",
+        "statement": "मोइदाम्सचा संबंध {x} राजवंशाच्या दफन परंपरेशी आहे.",
+        "answer": "अहोम",
+        "wrong": [
+          "मौर्य",
+          "चोल",
+          "गुप्त"
+        ],
+        "sourceUrl": "https://whc.unesco.org/en/list/1711",
+        "sourceTitle": "UNESCO: Moidams",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f18-0",
+        "statement": "‘विज्ञान धारा’ योजनेला केंद्रीय मंत्रिमंडळाची मंजुरी {x} रोजी मिळाली.",
+        "answer": "२४ ऑगस्ट २०२४",
+        "wrong": [
+          "२४ ऑगस्ट २०२५",
+          "१ फेब्रुवारी २०२६",
+          "२६ जानेवारी २०२६"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2048572",
+        "sourceTitle": "PIB: Vigyan Dhara approval",
+        "sourceDate": "2024-08-24",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      },
+      {
+        "id": "f18-1",
+        "statement": "‘विज्ञान धारा’ योजनेचा प्रमुख संबंध {x} क्षेत्राशी आहे.",
+        "answer": "विज्ञान, संशोधन व नवकल्पना",
+        "wrong": [
+          "फक्त क्रीडा",
+          "फक्त मतदार नोंदणी",
+          "फक्त पर्यटन कर"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2048572",
+        "sourceTitle": "PIB: Vigyan Dhara approval",
+        "sourceDate": "2024-08-24",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "topic": "चालू घडामोडी",
+    "subtopic": "२०२५",
+    "facts": [
+      {
+        "id": "f19-0",
+        "statement": "SpaDeX उपग्रहांची पहिली यशस्वी डॉकिंग {x} रोजी झाली.",
+        "answer": "१६ जानेवारी २०२५",
+        "wrong": [
+          "१६ जानेवारी २०२४",
+          "३० जुलै २०२५",
+          "२६ जानेवारी २०२६"
+        ],
+        "sourceUrl": "https://www.isro.gov.in/spadex_undocking_successful.html",
+        "sourceTitle": "ISRO: SpaDeX undocking",
+        "sourceDate": "2025-03-13",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f19-1",
+        "statement": "SpaDeX ची पहिली यशस्वी अनडॉकिंग {x} रोजी झाली.",
+        "answer": "१३ मार्च २०२५",
+        "wrong": [
+          "१ जानेवारी २०२४",
+          "६ जानेवारी २०२४",
+          "३० जुलै २०२५"
+        ],
+        "sourceUrl": "https://www.isro.gov.in/spadex_undocking_successful.html",
+        "sourceTitle": "ISRO: SpaDeX undocking",
+        "sourceDate": "2025-03-13",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f19-2",
+        "statement": "SpaDeX चे प्रमुख प्रात्यक्षिक {x} तंत्रज्ञानाचे आहे.",
+        "answer": "अंतराळयान डॉकिंग",
+        "wrong": [
+          "समुद्रतळ खाणकाम",
+          "सागरी भरती",
+          "जलशुद्धीकरण"
+        ],
+        "sourceUrl": "https://www.isro.gov.in/spadex_undocking_successful.html",
+        "sourceTitle": "ISRO: SpaDeX undocking",
+        "sourceDate": "2025-03-13",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f20-0",
+        "statement": "NISAR चे प्रक्षेपण {x} रोजी झाले.",
+        "answer": "३० जुलै २०२५",
+        "wrong": [
+          "३० जुलै २०२४",
+          "१६ जानेवारी २०२५",
+          "६ जानेवारी २०२४"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205387",
+        "sourceTitle": "PIB: Department of Space Year End Review 2025",
+        "sourceDate": "2025-12-17",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f20-1",
+        "statement": "NISAR हा {x} यांचा संयुक्त उपग्रह आहे.",
+        "answer": "NASA आणि ISRO",
+        "wrong": [
+          "ESA आणि JAXA",
+          "NASA आणि ESA",
+          "ISRO आणि Roscosmos"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205387",
+        "sourceTitle": "PIB: Department of Space Year End Review 2025",
+        "sourceDate": "2025-12-17",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f20-2",
+        "statement": "NISAR च्या प्रक्षेपणासाठी {x} वापरले गेले.",
+        "answer": "GSLV-F16",
+        "wrong": [
+          "PSLV-C58",
+          "PSLV-C60",
+          "PSLV-C57"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205387",
+        "sourceTitle": "PIB: Department of Space Year End Review 2025",
+        "sourceDate": "2025-12-17",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f20-3",
+        "statement": "२०२५ च्या Axiom-4 मोहिमेतील भारतीय अंतराळवीर {x} होते.",
+        "answer": "शुभांशु शुक्ला",
+        "wrong": [
+          "राकेश शर्मा",
+          "कल्पना चावला",
+          "विक्रम साराभाई"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205387",
+        "sourceTitle": "PIB: Department of Space Year End Review 2025",
+        "sourceDate": "2025-12-17",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f20-4",
+        "statement": "Axiom-4 मोहिमेचे लक्ष्य अंतराळस्थानक {x} होते.",
+        "answer": "ISS",
+        "wrong": [
+          "मीर",
+          "तियांगोंग",
+          "स्कायलॅब"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205387",
+        "sourceTitle": "PIB: Department of Space Year End Review 2025",
+        "sourceDate": "2025-12-17",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f20-5",
+        "statement": "शुभांशु शुक्ला यांची Axiom-4 मोहिमेतून पृथ्वीवर सुरक्षित परतफेरी {x} रोजी झाली.",
+        "answer": "१५ जुलै २०२५",
+        "wrong": [
+          "१५ जुलै २०२४",
+          "१६ जानेवारी २०२५",
+          "३० जुलै २०२५"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205387",
+        "sourceTitle": "PIB: Department of Space Year End Review 2025",
+        "sourceDate": "2025-12-17",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f21-0",
+        "statement": "‘Maratha Military Landscapes of India’ जागतिक वारसा यादीत {x} मध्ये समाविष्ट झाले.",
+        "answer": "२०२५",
+        "wrong": [
+          "२०२४",
+          "२०२३",
+          "२०२६"
+        ],
+        "sourceUrl": "https://whc.unesco.org/en/list/1739/",
+        "sourceTitle": "UNESCO: Maratha Military Landscapes of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f21-1",
+        "statement": "‘Maratha Military Landscapes of India’ या मालिकेत {x} किल्ले आहेत.",
+        "answer": "१२",
+        "wrong": [
+          "८",
+          "१०",
+          "१५"
+        ],
+        "sourceUrl": "https://whc.unesco.org/en/list/1739/",
+        "sourceTitle": "UNESCO: Maratha Military Landscapes of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f21-2",
+        "statement": "या मालिकेतील जिंजी किल्ला {x} राज्यात आहे.",
+        "answer": "तमिळनाडू",
+        "wrong": [
+          "महाराष्ट्र",
+          "केरळ",
+          "पंजाब"
+        ],
+        "sourceUrl": "https://whc.unesco.org/en/list/1739/",
+        "sourceTitle": "UNESCO: Maratha Military Landscapes of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      },
+      {
+        "id": "f21-3",
+        "statement": "या मालिकेत समाविष्ट रायगड किल्ला {x} राज्यात आहे.",
+        "answer": "महाराष्ट्र",
+        "wrong": [
+          "तमिळनाडू",
+          "आसाम",
+          "केरळ"
+        ],
+        "sourceUrl": "https://whc.unesco.org/en/list/1739/",
+        "sourceTitle": "UNESCO: Maratha Military Landscapes of India",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "topic": "चालू घडामोडी",
+    "subtopic": "२०२६",
+    "facts": [
+      {
+        "id": "f22-0",
+        "statement": "२६ जानेवारी २०२६ रोजी भारताने {x} प्रजासत्ताक दिन साजरा केला.",
+        "answer": "७७ वा",
+        "wrong": [
+          "७५ वा",
+          "७६ वा",
+          "७८ वा"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218449",
+        "sourceTitle": "PIB: Republic Day 2026",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f22-1",
+        "statement": "२०२६ च्या प्रजासत्ताक दिनाच्या प्रमुख पाहुण्यांमध्ये {x} होते.",
+        "answer": "अँटोनियो कोस्टा आणि उर्सुला व्हॉन डर लेयेन",
+        "wrong": [
+          "जो बायडन आणि कमला हॅरिस",
+          "राकेश शर्मा आणि शुभांशु शुक्ला",
+          "विक्रम साराभाई आणि होमी भाभा"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218449",
+        "sourceTitle": "PIB: Republic Day 2026",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f22-2",
+        "statement": "२०२६ च्या प्रजासत्ताक दिनाच्या मुख्य परेडचे ठिकाण {x} होते.",
+        "answer": "कर्तव्य पथ, नवी दिल्ली",
+        "wrong": [
+          "मरीन ड्राइव्ह, मुंबई",
+          "शिवाजी पार्क, मुंबई",
+          "विधान भवन, नागपूर"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218449",
+        "sourceTitle": "PIB: Republic Day 2026",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f22-3",
+        "statement": "२०२६ च्या प्रजासत्ताक दिनाच्या सोहळ्यात ‘वंदे मातरम्’च्या {x} वर्षांना विशेष महत्त्व देण्यात आले.",
+        "answer": "१५०",
+        "wrong": [
+          "१००",
+          "१२५",
+          "२००"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218449",
+        "sourceTitle": "PIB: Republic Day 2026",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f23-0",
+        "statement": "२०२६–२७ चा केंद्रीय अर्थसंकल्प {x} यांनी सादर केला.",
+        "answer": "निर्मला सीतारामन",
+        "wrong": [
+          "सुषमा स्वराज",
+          "प्रतिभा पाटील",
+          "कल्पना चावला"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221455",
+        "sourceTitle": "PIB: Union Budget 2026-27",
+        "sourceDate": "2026-02-01",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f23-1",
+        "statement": "२०२६–२७ चा केंद्रीय अर्थसंकल्प {x} रोजी सादर झाला.",
+        "answer": "१ फेब्रुवारी २०२६",
+        "wrong": [
+          "१ फेब्रुवारी २०२५",
+          "२६ जानेवारी २०२६",
+          "१५ ऑगस्ट २०२६"
+        ],
+        "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221455",
+        "sourceTitle": "PIB: Union Budget 2026-27",
+        "sourceDate": "2026-02-01",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f24-0",
+        "statement": "२०२६ च्या पद्म पुरस्कार घोषणेत एकूण {x} पुरस्कार मंजूर झाले (दुहेरी प्रकरण एक पुरस्कार धरून).",
+        "answer": "१३१",
+        "wrong": [
+          "१२१",
+          "१४१",
+          "१५१"
+        ],
+        "sourceUrl": "https://www.mha.gov.in/sites/default/files/Padma_Awards2026W_25012026.pdf",
+        "sourceTitle": "MHA: Padma Awards 2026 announcement",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f24-1",
+        "statement": "२०२६ च्या पद्म पुरस्कार यादीत पद्मविभूषण पुरस्कारांची संख्या {x} होती.",
+        "answer": "५",
+        "wrong": [
+          "३",
+          "७",
+          "९"
+        ],
+        "sourceUrl": "https://www.mha.gov.in/sites/default/files/Padma_Awards2026W_25012026.pdf",
+        "sourceTitle": "MHA: Padma Awards 2026 announcement",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f24-2",
+        "statement": "२०२६ च्या पद्म पुरस्कार यादीत पद्मभूषण पुरस्कारांची संख्या {x} होती.",
+        "answer": "१३",
+        "wrong": [
+          "११",
+          "१५",
+          "१७"
+        ],
+        "sourceUrl": "https://www.mha.gov.in/sites/default/files/Padma_Awards2026W_25012026.pdf",
+        "sourceTitle": "MHA: Padma Awards 2026 announcement",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f24-3",
+        "statement": "२०२६ च्या पद्म पुरस्कार यादीत पद्मश्री पुरस्कारांची संख्या {x} होती.",
+        "answer": "११३",
+        "wrong": [
+          "१०३",
+          "१२३",
+          "१३३"
+        ],
+        "sourceUrl": "https://www.mha.gov.in/sites/default/files/Padma_Awards2026W_25012026.pdf",
+        "sourceTitle": "MHA: Padma Awards 2026 announcement",
+        "sourceDate": "2026-01-25",
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f25-0",
+        "statement": "मिलानो-कोर्तिना २०२६ हिवाळी ऑलिम्पिकचा यजमान देश {x} होता.",
+        "answer": "इटली",
+        "wrong": [
+          "फ्रान्स",
+          "जपान",
+          "कॅनडा"
+        ],
+        "sourceUrl": "https://newsroom.olympics.com/record/908",
+        "sourceTitle": "IOC: Milano-Cortina 2026 host selection",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      },
+      {
+        "id": "f25-1",
+        "statement": "मिलानो-कोर्तिना २०२६ हे {x} ऑलिम्पिक होते.",
+        "answer": "हिवाळी",
+        "wrong": [
+          "उन्हाळी",
+          "युवा उन्हाळी",
+          "फक्त पॅरालिम्पिक"
+        ],
+        "sourceUrl": "https://newsroom.olympics.com/record/908",
+        "sourceTitle": "IOC: Milano-Cortina 2026 host selection",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": 2026
+      }
+    ]
+  },
+  {
+    "topic": "भूगोल व पर्यावरण",
+    "subtopic": "महाराष्ट्र: नद्या, सह्याद्री व भूभाग",
+    "facts": [
+      {
+        "id": "f26-0",
+        "statement": "महाराष्ट्राच्या पश्चिमेस {x} आहे.",
+        "answer": "अरबी समुद्र",
+        "wrong": [
+          "बंगालचा उपसागर",
+          "लाल समुद्र",
+          "कॅस्पियन समुद्र"
+        ],
+        "sourceUrl": "https://maharashtrasadan.maharashtra.gov.in/en/geographical-profile/",
+        "sourceTitle": "महाराष्ट्र सदन: Geographical Profile",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f26-1",
+        "statement": "महाराष्ट्रातील पश्चिम घाटांना {x} असेही म्हणतात.",
+        "answer": "सह्याद्री",
+        "wrong": [
+          "अरवली",
+          "हिमालय",
+          "काराकोरम"
+        ],
+        "sourceUrl": "https://maharashtrasadan.maharashtra.gov.in/en/geographical-profile/",
+        "sourceTitle": "महाराष्ट्र सदन: Geographical Profile",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f26-2",
+        "statement": "कोकण हा सह्याद्रीच्या {x} बाजूचा किनारी प्रदेश आहे.",
+        "answer": "पश्चिम",
+        "wrong": [
+          "पूर्व",
+          "उत्तरेकडील हिमाच्छादित",
+          "दक्षिण ध्रुवीय"
+        ],
+        "sourceUrl": "https://maharashtrasadan.maharashtra.gov.in/en/geographical-profile/",
+        "sourceTitle": "महाराष्ट्र सदन: Geographical Profile",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f26-3",
+        "statement": "महाराष्ट्राचा मोठा भाग भूवैज्ञानिकदृष्ट्या {x} शी संबंधित आहे.",
+        "answer": "दख्खन ट्रॅप",
+        "wrong": [
+          "प्रवाळ द्वीपसमूह",
+          "ध्रुवीय हिमपत्र",
+          "सहाराचे वाळू ढिगारे"
+        ],
+        "sourceUrl": "https://maharashtrasadan.maharashtra.gov.in/en/geographical-profile/",
+        "sourceTitle": "महाराष्ट्र सदन: Geographical Profile",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f26-4",
+        "statement": "महाराष्ट्राच्या पठारी भागात कृष्णा व गोदावरी नद्यांमुळे {x} तयार झाले आहेत.",
+        "answer": "नदीखोरी",
+        "wrong": [
+          "हिमपत्रे",
+          "प्रवाळभित्ती",
+          "समुद्री गर्ता"
+        ],
+        "sourceUrl": "https://maharashtrasadan.maharashtra.gov.in/en/geographical-profile/",
+        "sourceTitle": "महाराष्ट्र सदन: Geographical Profile",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f26-5",
+        "statement": "मुंबई बंदराचा संबंध {x} समुद्राशी आहे.",
+        "answer": "अरबी",
+        "wrong": [
+          "लाल",
+          "कॅस्पियन",
+          "बाल्टिक"
+        ],
+        "sourceUrl": "https://maharashtrasadan.maharashtra.gov.in/en/geographical-profile/",
+        "sourceTitle": "महाराष्ट्र सदन: Geographical Profile",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "विज्ञान",
+    "subtopic": "पोषण व मानवी आरोग्य",
+    "facts": [
+      {
+        "id": "f27-0",
+        "statement": "आयोडीनच्या कमतरतेमुळे {x} होऊ शकतो.",
+        "answer": "गलगंड",
+        "wrong": [
+          "स्कर्व्ही",
+          "बेरीबेरी",
+          "रातांधळेपणा"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f27-1",
+        "statement": "व्हिटॅमिन C च्या कमतरतेशी {x} संबंधित आहे.",
+        "answer": "स्कर्व्ही",
+        "wrong": [
+          "रिकेट्स",
+          "रातांधळेपणा",
+          "बेरीबेरी"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f27-2",
+        "statement": "व्हिटॅमिन A च्या कमतरतेशी {x} संबंधित आहे.",
+        "answer": "रातांधळेपणा",
+        "wrong": [
+          "स्कर्व्ही",
+          "गलगंड",
+          "बेरीबेरी"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f27-3",
+        "statement": "व्हिटॅमिन D च्या कमतरतेमुळे मुलांत {x} होऊ शकतो.",
+        "answer": "रिकेट्स",
+        "wrong": [
+          "स्कर्व्ही",
+          "गलगंड",
+          "रातांधळेपणा"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f27-4",
+        "statement": "व्हिटॅमिन B₁ च्या कमतरतेशी {x} संबंधित आहे.",
+        "answer": "बेरीबेरी",
+        "wrong": [
+          "स्कर्व्ही",
+          "गलगंड",
+          "रातांधळेपणा"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f27-5",
+        "statement": "A, D, E व K ही {x} विद्राव्य जीवनसत्त्वे आहेत.",
+        "answer": "स्निग्ध",
+        "wrong": [
+          "फक्त पाण्यात",
+          "फक्त हवेत",
+          "फक्त वाफेत"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f27-6",
+        "statement": "स्नायूंच्या वाढीस व ऊतकदुरुस्तीसाठी महत्त्वाचा पोषक घटक {x} आहे.",
+        "answer": "प्रथिने",
+        "wrong": [
+          "फक्त पाणी",
+          "फक्त खनिज मीठ",
+          "फक्त ऑक्सिजन"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f27-7",
+        "statement": "तंतुमय पदार्थांचा आहारात प्रमुख उपयोग {x} साठी होतो.",
+        "answer": "आतड्यांची हालचाल व मलोत्सर्जन",
+        "wrong": [
+          "थेट ऑक्सिजन निर्मिती",
+          "फक्त रक्तातील साखर निर्माण",
+          "फक्त हाडांचे खनिजीकरण"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/ncert-books/class-06/science/chapter-01-components-of-food/",
+        "sourceTitle": "IIT Kanpur SATHEE: NCERT Components of Food",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "भूगोल व पर्यावरण",
+    "subtopic": "परिसंस्था, अन्नसाखळी व प्रदूषण",
+    "facts": [
+      {
+        "id": "f28-0",
+        "statement": "हरित वनस्पती अन्नसाखळीत {x} म्हणून काम करतात.",
+        "answer": "उत्पादक",
+        "wrong": [
+          "फक्त अपघटक",
+          "फक्त अंतिम भक्षक",
+          "फक्त परजीवी"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f28-1",
+        "statement": "अन्नसाखळीच्या पुढील पोषण पातळीवर ऊर्जा सामान्यतः {x} जाते.",
+        "answer": "सुमारे १०%",
+        "wrong": [
+          "नेहमी १००%",
+          "नेहमी ०%",
+          "नेहमी ९०%"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f28-2",
+        "statement": "ओझोनच्या रेणूत ऑक्सिजनचे {x} अणू असतात.",
+        "answer": "तीन",
+        "wrong": [
+          "दोन",
+          "चार",
+          "पाच"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f28-3",
+        "statement": "वातावरणातील ओझोन थर हानिकारक {x} किरणांपासून संरक्षण देतो.",
+        "answer": "अतिनील",
+        "wrong": [
+          "रेडिओ",
+          "सर्व दृश्यमान",
+          "ध्वनी"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f28-4",
+        "statement": "जैवविघटन न होणाऱ्या पदार्थांचे उदाहरण {x} आहे.",
+        "answer": "बहुतेक कृत्रिम प्लास्टिक",
+        "wrong": [
+          "कागद",
+          "फळाची साल",
+          "पानांचा कचरा"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f28-5",
+        "statement": "अन्नसाखळीच्या उच्च पातळीवर काही अविघटनशील रसायनांची वाढती एकाग्रता {x} म्हणून ओळखली जाते.",
+        "answer": "जैववृद्धी",
+        "wrong": [
+          "प्रकाशसंश्लेषण",
+          "श्वसन",
+          "बाष्पोत्सर्जन"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f28-6",
+        "statement": "जैवविघटन करणारे सूक्ष्मजीव परिसंस्थेत {x} म्हणून कार्य करतात.",
+        "answer": "अपघटक",
+        "wrong": [
+          "फक्त उत्पादक",
+          "फक्त सर्वोच्च भक्षक",
+          "फक्त परागकण"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f28-7",
+        "statement": "अन्नसाखळीतील ऊर्जेचा प्रवाह सामान्यतः {x} असतो.",
+        "answer": "एकदिशीय",
+        "wrong": [
+          "पूर्णपणे चक्रीय",
+          "नेहमी उलट दिशेने",
+          "ऊर्जा निर्माण करणारा"
+        ],
+        "sourceUrl": "https://sathee.iitk.ac.in/pdf/class-10/notes/our-environment.pdf",
+        "sourceTitle": "IIT Kanpur SATHEE: Our Environment",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  },
+  {
+    "topic": "अर्थव्यवस्था",
+    "subtopic": "अर्थसंकल्प, कर व वित्तीय तूट",
+    "facts": [
+      {
+        "id": "f29-0",
+        "statement": "महसुली तूट म्हणजे महसुली खर्चातून {x} वजा केल्यावर मिळणारी रक्कम.",
+        "answer": "महसुली प्राप्ती",
+        "wrong": [
+          "एकूण कर्ज",
+          "एकूण निर्यात",
+          "एकूण आयात"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/leec105.pdf",
+        "sourceTitle": "NCERT: Government Budget and the Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f29-1",
+        "statement": "राजकोषीय तूट म्हणजे एकूण खर्चातून {x} वजा केलेली रक्कम.",
+        "answer": "कर्जेतर एकूण प्राप्ती",
+        "wrong": [
+          "फक्त व्याजखर्च",
+          "फक्त आयात",
+          "फक्त निर्यात"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/leec105.pdf",
+        "sourceTitle": "NCERT: Government Budget and the Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f29-2",
+        "statement": "प्राथमिक तूट म्हणजे राजकोषीय तुटीतून {x} वजा केल्यावर मिळणारी रक्कम.",
+        "answer": "व्याज देयके",
+        "wrong": [
+          "संपूर्ण करप्राप्ती",
+          "संपूर्ण महसुली खर्च",
+          "संपूर्ण आयात"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/leec105.pdf",
+        "sourceTitle": "NCERT: Government Budget and the Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f29-3",
+        "statement": "व्यक्तिगत आयकर हा {x} कराचा प्रकार आहे.",
+        "answer": "प्रत्यक्ष",
+        "wrong": [
+          "अप्रत्यक्ष",
+          "सीमाशुल्कच फक्त",
+          "वस्तूकरच फक्त"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/leec105.pdf",
+        "sourceTitle": "NCERT: Government Budget and the Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f29-4",
+        "statement": "कर महसूल हा सरकारच्या {x} प्राप्तीचा भाग आहे.",
+        "answer": "महसुली",
+        "wrong": [
+          "फक्त कर्ज",
+          "फक्त भांडवली विक्री",
+          "फक्त निर्गुंतवणूक"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/leec105.pdf",
+        "sourceTitle": "NCERT: Government Budget and the Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f29-5",
+        "statement": "सरकारी कर्जउभारणी ही {x} प्राप्ती आहे.",
+        "answer": "भांडवली",
+        "wrong": [
+          "फक्त कर महसूल",
+          "फक्त शुल्क महसूल",
+          "फक्त व्याज महसूल"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/leec105.pdf",
+        "sourceTitle": "NCERT: Government Budget and the Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      },
+      {
+        "id": "f29-6",
+        "statement": "सरकारकडून दिलेले कर्ज परत मिळाल्यास ती {x} प्राप्ती असते.",
+        "answer": "कर्जेतर भांडवली",
+        "wrong": [
+          "फक्त कर महसूल",
+          "फक्त आयात महसूल",
+          "फक्त दंड महसूल"
+        ],
+        "sourceUrl": "https://www.ncert.nic.in/textbook/pdf/leec105.pdf",
+        "sourceTitle": "NCERT: Government Budget and the Economy",
+        "sourceDate": null,
+        "verifiedAsOf": "2026-10-14",
+        "year": null
+      }
+    ]
+  }
+]
